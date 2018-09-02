@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4761bab2f7cb3a40b5d6327199d1d02, type: 3}
+  m_Name: SoundReactorShort.peaks
+  m_EditorClassIdentifier: 
+  fftWindow: 2
+  fftSamples: 4096
+  amplitudeMode: 1
+  peak: 0.117105395
+  peaks:
+  - 0.001
+  - 0.03244846
+  - 0.07664765
+  - 0.11242735
+  - 0.124501884
+  - 0.12161331
+  - 0.1147446
+  - 0.11315258
+  - 0.114243984
+  - 0.11329474
+  - 0.10582061
+  - 0.08865411
+  - 0.06940451
+  - 0.057610877
+  - 0.057572305
+  - 0.0629645
+  - 0.066400945
+  - 0.06393572
+  - 0.058869865
+  - 0.053055223
+  - 0.047278386
+  - 0.040406216
+  - 0.03484359
+  - 0.03320351
+  - 0.035757232
+  - 0.039866038
+  - 0.042790987
+  - 0.044597354
+  - 0.045973323
+  - 0.046907783
+  hash: 5279906
