@@ -6,7 +6,6 @@ public class GameManager : MonoSingleton<GameManager> {
     
     public override void Init()
     {
-        Transform x;
         
     }
 }
